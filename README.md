@@ -6,6 +6,6 @@ it might be helpful to know which features contribute to a wine's quality. Knowi
 a brand to make more intelligent decisions when making it. But what exactly are these features?  I plan to 
 answer this question using ML techniques with wine data from https://archive.ics.uci.edu/ml/datasets/wine+quality
 
-<a href="/data">Data</a>
-<a href="/docs">Docs</a>
-<a href="/models">Models</a>
+<a href="/data">Data</a><br>
+<a href="/docs">Docs</a><br>
+<a href="/models">Models</a><br>
