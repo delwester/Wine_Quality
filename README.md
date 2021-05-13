@@ -7,3 +7,5 @@ a brand to make more intelligent decisions when making it. But what exactly are 
 answer this question using ML techniques with wine data from https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 <a href="/data">Data</a>
+<a href="/docs">Docs</a>
+<a href="/models">Models</a>
