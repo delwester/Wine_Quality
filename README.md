@@ -1,4 +1,4 @@
-<img src="vino-red-wine-glass.jpg" alt="Glass of Wine">
+<img src="/data/vino-red-wine-glass.jpg" alt="Glass of Wine">
 # Wine Quality
 A Wine Quality prediction model
 
