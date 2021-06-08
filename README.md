@@ -1,5 +1,6 @@
 <img src="/data/vino-red-wine-glass.jpg" alt="Glass of Wine" width="300" height="300">
-# Wine Quality
+# Wine Quality 
+<br>
 A Wine Quality prediction model
 
 Many wine brands are seeking new ways to maximize the success of their wines. Before making any decisions, 
